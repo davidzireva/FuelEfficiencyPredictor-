@@ -1,2 +1,1 @@
-# Ecodrive-analytics
-A data-driven project utilizing machine learning to predict fuel consumption and optimize fleet operations.
+A data-driven project utilizing machine learning to predict fuel consumption and optimize fleet operations. This repository includes an end-to-end workflow: data preprocessing, exploratory data analysis (EDA), feature engineering, Random Forest model training, and actionable insights to improve fleet efficiency. Ideal for logistics, transportation, and fleet management applications.
